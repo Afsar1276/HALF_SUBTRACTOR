@@ -34,3 +34,4 @@ endmodule
 [image]![WhatsApp Image 2024-03-25 at 14 00 13_e169601e](https://github.com/Afsar1276/HALF_SUBTRACTOR/assets/161407741/938fe03a-5cec-4d7a-9c1f-d0ceee37c2fc)
 # RESULT:
 Thus the verilog program for half subtractor has been simulated and verified successfully.
+
