@@ -20,6 +20,7 @@ STEP:7 compare the output with truth table.
 ![image](https://github.com/RESMIRNAIR/HALF_SUBTRACTOR/assets/154305926/2f2d6a4d-9eda-4165-8579-1d7490b5fe97)
 # VERILOG CODE:
 # HALF_SUBTRACTOR:
+```
 module half_subtractor (a,b,diff, borr);
 input a,b;
 output diff, borr;
@@ -28,6 +29,7 @@ xor (diff,a,b);
 not (x,a);
 and (borr,x,b);
 endmodule
+```
 # OUTPUT:
 [image]![WhatsApp Image 2024-03-25 at 14 00 13_e169601e](https://github.com/Afsar1276/HALF_SUBTRACTOR/assets/161407741/938fe03a-5cec-4d7a-9c1f-d0ceee37c2fc)
 # RESULT:
